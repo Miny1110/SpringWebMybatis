@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beansProjectDescription>
 	<version>1</version>
-	<pluginVersion><![CDATA[2.2.7.200909012107-CI-R3397-B453]]></pluginVersion>
+	<pluginVersion><![CDATA[2.5.0.201010141000-RC1]]></pluginVersion>
 	<configSuffixes>
 		<configSuffix><![CDATA[xml]]></configSuffix>
 	</configSuffixes>
@@ -9,12 +9,5 @@
 	<configs>
 	</configs>
 	<configSets>
-		<configSet>
-			<name><![CDATA[test]]></name>
-			<allowBeanDefinitionOverriding>true</allowBeanDefinitionOverriding>
-			<incomplete>false</incomplete>
-			<configs>
-			</configs>
-		</configSet>
 	</configSets>
 </beansProjectDescription>
