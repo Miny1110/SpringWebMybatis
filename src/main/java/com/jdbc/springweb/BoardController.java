@@ -137,6 +137,7 @@ public class BoardController {
 		request.setAttribute("pageIndexList", pageIndexList);
 		request.setAttribute("articleUrl", articleUrl);
 		request.setAttribute("dataCount", dataCount);
+		request.setAttribute("pageNum", pageNum);
 		
 		return "/bbs/list";
 	}
